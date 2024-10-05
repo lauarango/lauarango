@@ -5,7 +5,7 @@
 * 🤠 `My name is`: **Laura (better call me Sofi)**,
 * 👩 `Pronouns`: **She/Her**,
 * 👾 `I'm`: **18 years old**,
-* 🐱 `I love`: **Cats**  ,
+* 🐱 `I love`: **Cats** 
 * 💻 `Favorite lang`: **Python**  
 
 }
