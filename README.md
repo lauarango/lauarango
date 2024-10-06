@@ -2,7 +2,7 @@
 
 {  
 
-* 🤠 `My name is`: **Laura (better call me Sofi)**,
+* 🤠 `My name is`: **Laura Sofia (better call me Sofi)**,
 * 👩 `Pronouns`: **She/Her**,
 * 👾 `I'm`: **18 years old**,
 * 🐱 `I love`: **Cats** 
