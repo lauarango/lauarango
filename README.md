@@ -3,13 +3,12 @@
     Hi 👋! My name is Laura Arango and I'm a Network Analyst Junior, working on Backend and DevOps Engineering, from Colombia
   </code>
 </h2>
-###
+
 
 <picture>
     <img alt="README Terminal Gif" src="output.gif">
 </picture>
 
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Bryan-Campuzano&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
