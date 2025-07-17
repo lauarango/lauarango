@@ -1,6 +1,6 @@
 <h2 align="left">
   <code style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-    Hi 👋! My name is Laura Arango and I'm a Network Analyst Junior, working on Backend and DevOps Engineering, from Colombia
+    Hi 👋! My name is Laura Arango and I'm a Network Analyst, working on Backend and DevOps Engineering, from Colombia
   </code>
 </h2>
 
